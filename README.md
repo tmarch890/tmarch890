@@ -1,3 +1,3 @@
-# tmarch890.github.io
+# Thomas March
 
 Welcome to my Portfolio
