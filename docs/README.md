@@ -2,7 +2,8 @@
 
 Welcome to my Portfolio
 
-Projects
+## Projects
 
-[Chess Cards](https://tmarch890.github.io/Chess-Cards)
+* [Chess Cards](https://tmarch890.github.io/Chess-Cards)
 ![](assets/image1.png)
+![](assets/image2.png)
