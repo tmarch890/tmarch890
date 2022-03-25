@@ -4,7 +4,9 @@
 
 * [Chess Cards](https://tmarch890.github.io/Chess-Cards)
 
-![](assets/ccphoto1.png) ![](assets/ccphoto2.png)
+  * Chess Cards is an interactive, spaced repetition based tool to help you learn a variety of common chess openings.
 
 _____
 * [LinearAlgebra](https://github.com/tmarch890/LinearAlgebra)
+
+  * A basic linear algebra module for Python.
