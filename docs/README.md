@@ -6,7 +6,8 @@
 
   * Chess Cards is an interactive, spaced repetition based tool to help you learn a variety of common chess openings.
 
-_____
 * [LinearAlgebra](https://github.com/tmarch890/LinearAlgebra)
 
   * A basic linear algebra module for Python.
+
+_____
