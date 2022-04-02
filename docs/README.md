@@ -1,5 +1,7 @@
 # Thomas March
 
+### [Gists](gists.html)
+
 ## Projects
 
 * [Chess Cards](https://tmarch890.github.io/Chess-Cards)
