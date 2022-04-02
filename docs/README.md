@@ -1,6 +1,6 @@
 # Thomas March
 
-### [Gists](gists.html)
+### [Gists](https://gist.github.com/tmarch890)
 
 ## Projects
 
